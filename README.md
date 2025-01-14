@@ -1,4 +1,4 @@
-## Hi there, I'm Abel Getahun ("ab_el")👋
+## Hi there, I'm Abel ("ab_el")👋
 
 <!--
 **abeelgetahun/abeelgetahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
