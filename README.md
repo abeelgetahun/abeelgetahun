@@ -19,7 +19,6 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=abeelgetahun&color=blue)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=abeelgetahun.abeelgetahun)
 
 [![](https://visitcount.itsvg.in/api?id=abeelgetahun&icon=5&color=1)](https://visitcount.itsvg.in)
 
