@@ -1,7 +1,10 @@
 ## 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓐𝓫𝓮𝓵 ("ab_el")👋
 
-# 💫 About Me:
-🌟 Passionate Mobile App Developer and Competitive Programmer.<br>📱 Currently working on: Building innovative and user-friendly mobile applications.<br>🤝 Looking to collaborate on: Mobile app projects, innovative tech solutions, and coding challenges.<br>💡 Ask me about: Mobile app development, optimizing algorithms, and competitive programming strategies.<br>🌱 Currently learning: Advanced machine learning techniques and exploring new app development frameworks.<br>🎯 Fun fact: I love solving complex coding problems and turning ideas into reality through code!
+ Curious about **AI, mobile app development, and competitive programming**.  
+ Love building apps and solving coding challenges.  
+ Always learning and exploring new tech!  
+
+---
 
 
 ## 🌐 Socials:
